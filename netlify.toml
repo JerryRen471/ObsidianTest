@@ -19,7 +19,7 @@ SITE_TITLE = "Someone's Second 🧠"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://api.netlify.com/api/v1/badges/c539970c-4d7a-4a01-9f38-5270e5f630b2/deploy-status"
+SITE_URL = "https://vermillion-licorice-b35b0d.netlify.app/"
 # (Optional) Site Timezone
 TIMEZONE = "Asia/Hong_Kong"
 ZOLA_VERSION = "0.15.2"
