@@ -1,0 +1,178 @@
+{
+  "workspaces": {
+    "读书": {
+      "main": {
+        "id": "38a11fd2db106afb",
+        "type": "split",
+        "children": [
+          {
+            "id": "04bd064f696f8784",
+            "type": "leaf",
+            "dimension": 55.15776699029126,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "广义相对论/第二章 流形和张量场/2.1 微分流形/坐标系 、图、图册.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f640a384e24ed819",
+            "type": "leaf",
+            "dimension": 44.842233009708735,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "广义相对论/微分几何入门与广义相对论 3册合集 by 梁灿彬 周彬 (z-lib.org).pdf"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "51252eefa20b5b8c",
+        "type": "split",
+        "children": [
+          {
+            "id": "d83b69640450d6b2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bba97d3ba3f697aa",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "749ecb8836874c6c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "ba96a022a296a89f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b29cec89988343f1",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "广义相对论/第二章 流形和张量场/2.1 微分流形/坐标系 、图、图册.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.9999999999999991,
+                      "close": false
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "27021b72bca1e218",
+        "type": "split",
+        "children": [
+          {
+            "id": "e26559e0353532b9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ea836974e205fd89",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "广义相对论/第二章 流形和张量场/2.1 微分流形/坐标系 、图、图册.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "df52e51c9b1cff89",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "广义相对论/第二章 流形和张量场/2.1 微分流形/坐标系 、图、图册.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "eadca086c27b80da",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "13f6257f5e36f46a",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 250.33334350585938,
+        "collapsed": true
+      },
+      "active": "04bd064f696f8784"
+    }
+  },
+  "active": "读书"
+}

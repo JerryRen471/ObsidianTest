@@ -1,0 +1,19 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "附件",
+  "communityThemeSortOrder": "download",
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "smartIndentList": true,
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ]
+}

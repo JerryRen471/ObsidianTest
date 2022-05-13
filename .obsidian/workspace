@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "38a11fd2db106afb",
+    "type": "split",
+    "children": [
+      {
+        "id": "019f79d3fb35f4bd",
+        "type": "leaf",
+        "dimension": 13.449285345272942,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reading/CTF.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "cab1eabde47abed1",
+        "type": "leaf",
+        "dimension": 26.898570690545885,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Reading/Topology in condensed matter.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5c710b1d8a52f0ef",
+        "type": "leaf",
+        "dimension": 59.65214396418118,
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "附件/The Classical Theory of Fields (Landau L.D., Lifshitz E.M.) (z-lib.org).pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51252eefa20b5b8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d83b69640450d6b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bba97d3ba3f697aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "749ecb8836874c6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b29cec89988343f1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Reading/CTF.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.1987238192112935,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265
+  },
+  "right": {
+    "id": "27021b72bca1e218",
+    "type": "split",
+    "children": [
+      {
+        "id": "e26559e0353532b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea836974e205fd89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reading/CTF.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "df52e51c9b1cff89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reading/CTF.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "eadca086c27b80da",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d7561b555112d0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "75e80d45444cbf39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reading/CTF.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262,
+    "collapsed": true
+  },
+  "active": "019f79d3fb35f4bd",
+  "lastOpenFiles": [
+    "Reading/CTF.md",
+    "Reading/Topology in condensed matter.md",
+    "Reading list.md",
+    "广义相对论/广义相对论.md",
+    "广义相对论/第六章 狭义相对论.md",
+    "附件/The Classical Theory of Fields (Landau L.D., Lifshitz E.M.) (z-lib.org).pdf",
+    "模板/阅读模板.md",
+    "模板/每日计划.md",
+    "模板/日记.md",
+    "模板/概念模板.md"
+  ]
+}
